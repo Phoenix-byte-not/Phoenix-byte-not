@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Phoenix-byte-not
 - 👀 I’m interested in futuristic tech
-- 🌱 I’m currently learning full stack wiha java
+- 🌱 I’m currently learning full stack with java
 - 📫 How to reach me :-dheerus809@gmail.com
 
 <!---
