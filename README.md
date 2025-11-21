@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phoenix-byte-not
+- 👋 Hi, I’m Dheeraj Singh 
 - 👀 I’m interested in futuristic tech
 - 🌱 I’m currently learning full stack with java
 - 📫 How to reach me :-dheerus809@gmail.com
